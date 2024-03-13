@@ -1,0 +1,24 @@
+# TKM's kicad repository
+# for repo git@github.com:thekarlmiller/kicad.git
+
+# files to include (NOT ignore)
+!.gitignore
+!*.yaml
+!*.md
+!*.sh
+!*.js*
+!kicad
+!docs
+
+# files to Ignore
+.cloud
+.google.token
+.ssh
+.storage
+*.bin
+*.log*
+*.db*
+id_rsa*
+secrets.yaml
+*-backups
+fp-info-cache

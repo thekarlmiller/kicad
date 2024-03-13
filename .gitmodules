@@ -1,0 +1,3 @@
+[submodule "THE5V-3A-ACDCPowerSupply"]
+	path = THE5V-3A-ACDCPowerSupply
+	url = https://git@github.com/thekarlmiller/THE5V-3A-ACDCPowerSupply.git
